@@ -1,6 +1,7 @@
 
 ## Olá, sou Gabriel Lima 👋  
 Curso **Bacharelado em Sistemas de Informação** pelo **IFPR Campus Ivaiporã**
+
 Formado em **Técnico em Informática** pelo **IFPR Campus Ivaiporã**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabclima&show_icons=true&theme=tokyonight&locale=pt-br)
