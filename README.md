@@ -1,6 +1,7 @@
 
 ## Olá, sou Gabriel Lima 👋  
-Curso **Técnico em Informática** no **IFPR** e tento programar algumas coisas!
+Curso **Bacharelado em Sistemas de Informação** pelo **IFPR Campus Ivaiporã**
+Formado em **Técnico em Informática** pelo **IFPR Campus Ivaiporã**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabclima&show_icons=true&theme=tokyonight&locale=pt-br)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabclima&layout=compact&theme=tokyonight&locale=pt-br)
